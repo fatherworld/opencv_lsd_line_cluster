@@ -1,0 +1,46 @@
+﻿  main.cpp
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(69): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(99): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(116): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(117): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(120): warning C4305: “初始化”: 从“double”到“float”截断
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(129): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(211): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(212): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(213): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(214): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(336): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(342): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(477): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(536): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(550): note: 参见对正在编译的函数 模板 实例化“auto getBigCoorX_Or_Y::<lambda_d62ec3d5fd9d869a4d05d67a4ac1c2e6>::operator ()<cv::Vec4f>(cv::Vec4f) const”的引用
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(537): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(543): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(544): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(559): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(571): note: 参见对正在编译的函数 模板 实例化“auto getLineLength::<lambda_6e109901cbab3646f19423014738143e>::operator ()<cv::Vec4f>(cv::Vec4f) const”的引用
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(560): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(563): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(564): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(618): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(631): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(692): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(693): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(580): warning C4101: “coordtype”: 未引用的局部变量
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(795): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(796): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(881): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(882): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(887): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\opencv_lsd_line_cluster\main.cpp(888): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  opencv_lsd_line_cluster.vcxproj -> D:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\x64\Debug\opencv_lsd_line_cluster.exe
+  opencv_lsd_line_cluster.vcxproj -> D:\into\soft\work\opencv_lsd_line_cluster\opencv_lsd_line_cluster\x64\Debug\opencv_lsd_line_cluster.pdb (Full PDB)
